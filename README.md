@@ -14,6 +14,7 @@ As a full-stack developer, I bring extensive experience in developing and mainta
 <a href="https://www.github.com/vidura-chathuranga" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vidura-chathuranga?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+![](https://komarev.com/ghpvc/?username=vidura-chathuranga&color=blueviolet)
 ### Skills
 
 
