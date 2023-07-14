@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-As a full-stack developer, I bring extensive experience in developing and maintaining complex web applications from front-end to back-end. My expertise includes using a variety of programming languages, frameworks, and tools to deliver high-quality software solutions that meet client's needs and exceed their expectations. I am highly proficient in agile software development methodologies and collaborative development practices such as version control using Git, continuous integration and deployment, and code reviews. I am able to work effectively in both team-based and individual development environments, and I am dedicated to maintaining up-to-date knowledge of the latest technologies and industry best practices. With a strong commitment to quality, professionalism, and customer satisfaction, I am confident in my ability to deliver top-notch software solutions that meet the needs of any project or organization. Whether it's building a new application from scratch or maintaining an existing one, I am eager to apply my skills and experience to make a meaningful impact on the world of technology.
-
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [vidurachathuranga2020@gmail.com](mailto:vidurachathuranga2020@gmail.com)
 * 🚀  I'm currently working on [Energy ERP System](https://github.com/vidura-chathuranga/battery-shop)
