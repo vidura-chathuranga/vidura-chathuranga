@@ -6,7 +6,6 @@ Full Stack Developer
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [vidurachathuranga2020@gmail.com](mailto:vidurachathuranga2020@gmail.com)
-* 🚀  I'm currently working on [BuyToday](https://github.com/vidura-chathuranga/BuyToday.git)
 * 🧠  I'm learning MERN stack
 
 <a href="https://www.github.com/vidura-chathuranga" target="_blank" rel="noreferrer"><img
