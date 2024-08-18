@@ -6,7 +6,7 @@ Full Stack Developer
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [vidurachathuranga2020@gmail.com](mailto:vidurachathuranga2020@gmail.com)
-* 🧠  I'm learning Java, Spring Boot, Angular
+* 🧠  I'm learning Java, Spring Boot and Angular
 
 <a href="https://www.github.com/vidura-chathuranga" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vidura-chathuranga?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
